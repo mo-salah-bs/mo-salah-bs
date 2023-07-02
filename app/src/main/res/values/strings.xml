@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="login_error_message">Invalid email or password</string>
+    <string name="add_to_favourite">Add To Favourite</string>
+    <string name="remove_from_favourite">Remove from Favourite</string>
+</resources>
