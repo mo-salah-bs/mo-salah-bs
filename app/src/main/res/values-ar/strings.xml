@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">وصفات</string>
+    <string name="title_activity_login">للدخول</string>
+    <string name="prompt_email">البريد الالكتروني</string>
+    <string name="prompt_password">كلمة السر</string>
+    <string name="action_sign_in">دخول</string>
+    <string name="login_error_message">بريد الكتروني او كلمة السر غير صحيحة</string>
+    <string name="add_to_favourite">اضافة الى المفلة</string>
+    <string name="remove_from_favourite">حذف من المفضلة</string>
+</resources>
